@@ -17,4 +17,8 @@ Also uses Bootstrap CSS
 1) Navigate to the `Server` folder
 2) Run the `nodemon index` command in a terminal
 
+### To start the frontend
+1) Navigate to the `Client` folder
+2) Run the `npm start` command in a terminal
+
 ![alt text](https://github.com/prab-s/React-Express-Postgres-CRUD-app/blob/master/pern-1.jpg "Data entry page")
