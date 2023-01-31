@@ -5,11 +5,12 @@ I deployed it using **Docker** in a micro-service architecture.
 
 ## Tech stack
 
+> PERN STACK
 + Front end: React
 + API backend: Express
 + Server: PostgreSQL
 
-(PERN stack)
+Also uses Bootstrap CSS
 
 ## Usage
 ### To start the backend
